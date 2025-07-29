@@ -9,6 +9,10 @@
 - [Solutions](Solutions)
 ### Project Overview
 This project focuses on visualizing and tracking the progress of various projects using Power BI. It aims to improve project transparency, monitor timelines, evaluate budget performance, and support data-driven decision-making by stakeholders.
+
+![project progress dashboard](https://github.com/user-attachments/assets/74a7475a-90be-417f-be3f-2cccc1d022d5)
+
+
 ### Objectives
 - To track project progress across multiple tasks and phases, enabling timely identification of delays or underperformance.  
 - To monitor task completion rates and team performance, supporting better workload distribution and accountability.  
