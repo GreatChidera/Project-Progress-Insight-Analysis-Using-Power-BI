@@ -1,12 +1,12 @@
 # Project Progress Insight Analysis Using PowerBI
 ## Table of Contents
-- [Project Overview](Project-Overview)
-- [Objectives](Objectives)
-- [Process](Process)
-- [Tools](Tools)
-- [Key Insights](Key-Insights)
-- [Challenges](Challenges)
-- [Solutions](Solutions)
+- [Project Overview](#Project-Overview)
+- [Objectives](#Objectives)
+- [Process](#Process)
+- [Tools](#Tools)
+- [Key Insights](#Key-Insights)
+- [Challenges](#Challenges)
+- [Solutions](#Solutions)
 ### Project Overview
 This project focuses on visualizing and tracking the progress of various projects using Power BI. It aims to improve project transparency, monitor timelines, evaluate budget performance, and support data-driven decision-making by stakeholders.
 
